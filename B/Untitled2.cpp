@@ -2,7 +2,7 @@
 
 int main() {
     int T;
-    scanf("%d", &T);  // input T
+    scanf("%d", &T);
     
     char results[T][10];
     
