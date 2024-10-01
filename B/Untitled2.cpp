@@ -23,7 +23,7 @@ int main() {
     for (int i = 1; i <= T; i++) {
         printf("Case #%d: %s\n", i, results[i - 1]);  // Cetak hasil berdasarkan urutan
     }
-
+    
     return 0;
 }
 
