@@ -2,7 +2,7 @@
 
 int main() {
     char blocks[3];
-    int positions[3] = {1, 2, 3}; // Original positions: 1, 2, 3
+    int positions[3] = {1, 2, 3};
 
     scanf(" %c %c %c", &blocks[0], &blocks[1], &blocks[2]);
 
